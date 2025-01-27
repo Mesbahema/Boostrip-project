@@ -47,4 +47,6 @@ const UserData = forwardRef<FormikProps<FormikValues>, {onSuccess: () => void}>(
   )
 })
 
+UserData.displayName = "UserData";
+
 export default UserData

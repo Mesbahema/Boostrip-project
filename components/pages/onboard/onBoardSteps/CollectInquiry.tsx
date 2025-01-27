@@ -40,4 +40,6 @@ const CollectInquiry = forwardRef<FormikProps<FormikValues>, { onSuccess: () => 
   )
 })
 
+CollectInquiry.displayName = "CollectInquiry";
+
 export default CollectInquiry
