@@ -31,4 +31,4 @@ A Next.js project with MongoDB integration.
 
 ## Demo:
 - Video demo: [Video Link](https://drive.google.com/file/d/1qJ2oXZbzc_mdQiOeDWGGH4RueOk7vLee/view?usp=sharing)
-- Live preview: [Vercel Link](<your-vercel-link>)
+- Live preview: [Vercel Link](https://boostrip-project-l8kb80eqi-emamim612s-projects.vercel.app/leads)
